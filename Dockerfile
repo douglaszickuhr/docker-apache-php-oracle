@@ -1,6 +1,6 @@
 FROM debian:jessie
 
-MAINTAINER Douglas Zickuhr <douglasrsl@hotmail.com>
+MAINTAINER Douglas Zickuhr <douglasrsl@gmail.com>
 
 RUN apt-get update
 RUN apt-get -y upgrade
